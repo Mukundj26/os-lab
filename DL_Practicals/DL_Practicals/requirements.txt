@@ -1,0 +1,25 @@
+# Deep Learning practicals - Python 3.10 to 3.12 recommended
+tensorflow>=2.16
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+# Practical 7 (object detection)
+torch
+torchvision
+ultralytics
+torchmetrics
+pycocotools
+opencv-contrib-python   # contrib needed for Selective Search (do NOT also install opencv-python)
+# Practical 8
+tensorflow-datasets
+# Practicals 9, 10
+yfinance
+# Practical 11
+flask
+fastapi
+uvicorn
+python-multipart
+pillow
+requests
